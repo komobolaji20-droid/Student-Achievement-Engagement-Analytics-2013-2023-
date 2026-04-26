@@ -8,8 +8,11 @@ This project analyzes 10 years of academic data to uncover drivers of student pe
 
 ## How to Use This Dashboard
 -Use the filters to segment performance by gender and year
+
 -Track CGPA trends over time using the line chart
+
 -Compare attendance vs performance using correlation visuals
+
 -Identify high-risk student groups through KPI indicators
 
 ## Key Metrics & Definitions
@@ -35,9 +38,13 @@ These metrics form the foundation for identifying performance patterns and relat
 
 ## Tech Stack & Skills
 | Component | Technology | Skills Applied |
+
 | **ETL** | Power Query | Data Cleaning, Normalization |
+
 | **Modeling** | Power BI | Star Schema, DAX Measures |
+
 | **Analysis** | Power BI | Trend Forecasting, Correlation (R²) |
+
 | **Design** | Power BI | UI/UX, Visual Hierarchy |
 
 ## Business Impact
