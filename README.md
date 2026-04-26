@@ -64,15 +64,21 @@ I’m actively building my data analytics portfolio. Feedback on DAX measures an
 Based on the data trends identified in this analysis, the following actions are recommended for institutional improvement:
 
 ### 1.Prioritize analysis of the "Engagement-Growth Gap":
+
 **Observation**: Male students show high attendance but lower CGPA growth.
+
  **Recommendation**: Deploy targeted surveys to diagnose engagement quality gaps to determine if the current curriculum delivery aligns with male learning styles, or if attendance is "passive" rather than "active."
 
 ### 2.Personalized Support for Peak Years:
+
  **Observation**: Enrollment surged in 2020.
+
 **Recommendation**: Students from high-intake years may require additional career counseling or alumni networking support as they exit the system, ensuring the volume of students doesn't dilute the quality of outcomes.
 
 ### 3.Incentivize "Quality over Quantity" Study Habits:
+
 **Observation**: The weak correlation (R2=0.15) between study hours and credits suggests that "more time" isn't necessarily "better time."
+
 **Recommendation**: Introduce structured study-skill programs focusing on high-impact learning techniques (Active Recall, Spaced Repetition) rather than just increasing library hours.
 
 ### 4.Expand Data Collection:
