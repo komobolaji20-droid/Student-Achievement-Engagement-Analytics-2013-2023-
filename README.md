@@ -26,9 +26,12 @@ This project analyzes 10 years of academic data to uncover drivers of student pe
 These metrics form the foundation for identifying performance patterns and relationships across the dataset.
 
 ##  Key Insights
+
  **The Attendance Paradox:** Male students recorded 29% higher attendance, yet showed lower CGPA growth, suggesting that attendance alone is not a reliable proxy for academic performance. This points to potential differences in engagement quality rather than presence.
-* **Weak Correlation:** Study hours explain only 15% of performance variance, indicating that other hidden factors—such as learning methods, prior knowledge, or socio-economic context—play a significantly larger role.
-* **Peak Intake:** Enrollment peaked in 2020, creating potential resource strain and signaling the need for scalable academic support systems.
+
+**Weak Correlation:** Study hours explain only 15% of performance variance, indicating that other hidden factors—such as learning methods, prior knowledge, or socio-economic context—play a significantly larger role.
+
+ **Peak Intake:** Enrollment peaked in 2020, creating potential resource strain and signaling the need for scalable academic support systems.
 
 ## Tech Stack & Skills
 | Component | Technology | Skills Applied |
