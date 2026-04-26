@@ -6,6 +6,13 @@ Data-driven analysis of academic performance trends using Power BI and SQL-based
 ## Project Overview
 This project analyzes 10 years of academic data to uncover drivers of student performance and support data-driven decision-making for faculty and academic planners.
 
+##  Dataset
+The analysis is based on the [Students_Performance_dataset.csv](./Students_Performance_dataset.csv) file included in this repository.
+
+**Source:** Synthetic academic records (2013-2023).
+
+**Size:** 1.19K unique student records.
+
 ## How to Use This Dashboard
 -Use the filters to segment performance by gender and year
 
