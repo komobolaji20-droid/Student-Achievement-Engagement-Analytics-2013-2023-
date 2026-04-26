@@ -22,6 +22,7 @@ This project analyzes 10 years of academic data to uncover drivers of student pe
 **Course Credits Earned** – Total academic credits successfully completed, indicating progression
 
 **Number of Students** – Total number of students enrolled, used to track intake trends over time
+
 These metrics form the foundation for identifying performance patterns and relationships across the dataset.
 
 ##  Key Insights
